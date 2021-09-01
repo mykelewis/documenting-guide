@@ -4,15 +4,15 @@ repository following document guide
 
 ### Table of Contents:
     
-   [Installation]
+   [Installation](https://github.com/mykelewis/documenting-guide/blob/main/README.md#installation)
    
-   [Usage]
+   [Usage](https://github.com/mykelewis/documenting-guide/blob/main/README.md#usage)
    
-   [Contributing]
+   [Contributing](https://github.com/mykelewis/documenting-guide/blob/main/README.md#contributing)
    
-   [Credits]
+   [Credits](https://github.com/mykelewis/documenting-guide/blob/main/README.md#credits)
    
-   [License]
+   [License](https://github.com/mykelewis/documenting-guide/blob/main/README.md#license)
 
 ### Installation
     This is where one would put how to install something
