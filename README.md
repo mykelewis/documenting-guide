@@ -4,7 +4,7 @@ repository folowing document guide
 
 ### Table of Contents:
     
-   [Installation](https://github.com/mykelewis/documenting-guide/README.md#L17)
+   [Installation](https://github.com/mykelewis/documenting-guide/blob/main/README.md#L17)
    
    [Usage]()
    
